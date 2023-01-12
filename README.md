@@ -9,9 +9,13 @@ I used HTML and CSS.
 #### What I've practiced/learned:
 - Copy a homepage;
 - Anchor to the same page (HTML);
+- Add an external font type (CSS);
+- Grid (CSS);
+- Position absolute/relative (CSS);
 - Flexbox (CSS);
-- Hover effects(CSS);
+- Line-height (CSS).
 
 
 
-You can check the project ready [here](https://yasmingsdm.github.io/companyhomepage/)!
+
+You can check the project ready [here](https://yasmingsdm.github.io/companyhomepage/)
