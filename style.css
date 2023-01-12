@@ -1,0 +1,86 @@
+@font-face {
+    font-family: 'Lexend Mega';
+    src: url(./LexendMega-VariableFont_wght.ttf);
+}
+
+body{
+    color: black;
+    font-family: 'Lexend Mega', sans-serif;
+    text-align: center;
+}
+
+/* Header: */
+h1{
+    padding: 10px;
+}
+a {
+    color:black;
+    padding: 30px;
+}
+
+header{
+    margin-bottom: 20px;
+}
+
+/* Mission: */
+
+.mission{
+    background-image: url(./background1.jpeg);
+    width:1000px;
+    height:200px;
+    margin-left: auto;
+    margin-right: auto;
+    position:relative;
+}
+
+.texto{
+    background-color: white;
+    position: absolute;
+    top:25px;
+    left:70px;
+
+
+}
+
+/* Portfolio: */
+.portfolio{
+    display: inline-flex;
+    flex-wrap: wrap;
+}
+
+.port img {
+    width: 200px;
+    padding: 100px;
+}
+
+.line2{
+    margin-left: 200px;
+}
+
+
+/* Team: */
+
+.backgroundTeam{
+    background-image: url(./background2.jpeg);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 0 300px;
+}
+
+.person{
+    color:white;
+    margin-top: 10px;
+    padding: 0 50px;
+}
+
+.person img{
+    width:200px;
+}
+/* Footer: */
+footer{
+    line-height: 300%;
+}
+
+.last{
+    margin-top: 50px;
+}
