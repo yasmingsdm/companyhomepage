@@ -13,7 +13,8 @@ I used HTML and CSS.
 - Grid (CSS);
 - Position absolute/relative (CSS);
 - Flexbox (CSS);
-- Line-height (CSS).
+- Line-height (CSS);
+- Responsive design (CSS).
 
 
 
