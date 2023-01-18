@@ -1,6 +1,6 @@
 # Company Homepage 
 
-In this project, I used flexbox to design and build the layout for a company’s homepage.<br>
+In this project, I used flexbox to design and build the layout for a company’s homepage.  
 
 This is a CodeAcademy project for the Front-end Engineer Career Path so  I choose to copy [this](https://content.codecademy.com/PRO/independent-practice-projects/flexbox-business-site/example-site/index.html?_gl=1*99dcgn*_ga*NTEzNzQzNDM5OS4xNjY4MTYyMTI4*_ga_3LRZM6TM9L*MTY3MzUxNTI1Ny43NC4xLjE2NzM1MTUyNzkuMC4wLjA.#portfolio) homepage from CodeAcademy Project
 
